@@ -1,1 +1,0 @@
-AL LanguageAL FormatterCRS AL Language ExtensionsNAV Skills AL Lintsnippet-creatorPowershellCreate GUIDDockerGit HistoryGit LensJSON ToolsXML ToolsmssqlPretify JSONREST ClientSelect Line Status BarLorem ipsumMarkdown linter
